@@ -1,4 +1,4 @@
-# Integracao_Python-APIs-JSON
+# Integração Python - APIs e JSON
  Integração Python com APIs e JSON [Python]
 
  API significa Application Programming Interface (Interface de Programação de Aplicação). No contexto de APIs, a palavra Aplicação refere-se a qualquer software com uma função distinta. A interface pode ser pensada como um contrato de serviço entre duas aplicações.
