@@ -2,7 +2,7 @@ from twilio.rest import Client
 
 #   API que necessita uma conta no site
 
-#           Mandar SMS
+#        Envio de SMS com Python e Twilio
 account_sid = 'SID da conta'
 
 token = 'Seu token de autenticação'
